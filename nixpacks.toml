@@ -1,0 +1,5 @@
+[phases.setup]
+packages = ["gcc", "python3-dev", "libffi-dev", "build-essential"]
+
+[env]
+PORT = "8080"
